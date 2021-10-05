@@ -1,3 +1,3 @@
 # Ecommerce-store
 
-This is a mini project built in core php and code igniter (php framework). 
+This is a mini ecommerce store project built in core php and code igniter (php framework). 
